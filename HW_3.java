@@ -237,7 +237,7 @@ final class Ship extends Transport {
 }
 
 // Пользовательский интерфейс
-public class TransportSystem {
+public class HW_3 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         List<Transport> transports = new ArrayList<>();
